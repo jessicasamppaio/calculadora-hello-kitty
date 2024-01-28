@@ -32,4 +32,4 @@ Contribuições são bem-vindas! Se você encontrar problemas ou tiver ideias pa
 
 ---
 
-**Autor:** Jéssica Sampaio
+**Autora:** Jéssica Sampaio
