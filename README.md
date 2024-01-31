@@ -5,7 +5,6 @@ Bem-vindo ao meu projeto de Calculadora Web! Esta aplicação simples permite re
 ## Funcionalidades 🚀
 
 - **Operações Básicas:** Soma, subtração, multiplicação e divisão.
-- **Expressões Complexas:** A calculadora suporta a entrada de expressões matemáticas mais complexas.
 
 ## Tecnologias Utilizadas 💻
 
